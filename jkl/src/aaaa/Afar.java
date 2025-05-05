@@ -7,6 +7,8 @@ public class Afar {
 
 		
 		System.out.println("Plan for What ");
+		System.out.println("Newly added Name");
+		
 	}
 
 }
