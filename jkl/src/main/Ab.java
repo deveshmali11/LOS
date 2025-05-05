@@ -8,6 +8,8 @@ public class Ab {
 		
 		
 		System.out.println("Say hello to Java");
+		
+		System.out.println("Ice Cream");
 	}
 
 }
